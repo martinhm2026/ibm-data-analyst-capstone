@@ -105,13 +105,17 @@ The interactive dashboard is organized into three sections:
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 ibm-data-analyst-capstone/
-├── data/
 ├── notebooks/
-├── dashboard/
-├── images/
+│   └── 01_data_collection/
+│       ├── 01_collect_job_data_api.ipynb
+│       ├── 02_web_scraping.ipynb
+│       └── README.md
 ├── reports/
-├── README.md
-├── requirements.txt
-└── .gitignore
+│   ├── technology-trends-presentation.pdf
+│   └── README.md
+└── README.md
+```
