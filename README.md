@@ -99,8 +99,6 @@ The interactive dashboard is organized into three sections:
 - **Future Technology Trends**
 - **Developer Demographics**
 
-> A dashboard preview will be added to this section.
-
 ## Repository Structure
 
 ```text
